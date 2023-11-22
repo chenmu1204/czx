@@ -3,3 +3,7 @@ A collection of high-resolution remote sensing images, specifically features uns
 Google Netdisk Get Address:
 
 Link：https://drive.google.com/drive/folders/1rcz_jCRlwi3Dbt8H946HUyI77R3_5IMC
+
+or Baidu Netdisk Get Address:
+链接：https://pan.baidu.com/s/1IMvNDZuT2JGP2M_k1jsfcg 
+提取码：v15y
