@@ -1,9 +1,4 @@
-1. DrMOD dataset
-A Large-scale Dataset for Drone-based Multispectral Object Detection (DrMOD), consisting of 14,041 multispectral images, each with eight spectral channels and a spatial resolution of 1200*900. It spans eight object categories and includes 330,191 rotated bounding boxes. DrMOD covers a diverse range of urban scenes from drone perspectives, addressing challenges such as small-sized objects and complex backgrounds.
-
-The dataset link will be posted here.
-
-3. RSUR-2D dataset
+RSUR-2D dataset
 A collection of high-resolution remote sensing images, specifically features unstable rocks in Beijing's suburban karst terrains. Comprising 1,557 drone-captured images at 1300×800 resolution, it is split into 1,245 training and 312 validation samples, each meticulously annotated with multiple unstable rock objects. These annotations highlight key features like high protrusions and detachment from the parent mass, crucial for identifying potential geological hazards.
 
 Google Netdisk Get Address:
