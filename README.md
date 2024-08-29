@@ -11,21 +11,13 @@ Link：https://pan.baidu.com/s/1IMvNDZuT2JGP2M_k1jsfcg
 
 Code：v15y
 
-Paper: Feature-Enhanced Convolutional Attention for Unstable Rock Detection in Aerial Images.
-Please cite：@article{Peng2024FeatureEnhancedCA,
-
-  title={Feature-Enhanced Convolutional Attention for Unstable Rock Detection in Aerial Images},
-  
-  author={Peiran Peng and Zhenxiang Chen and Jianan Li and Shuaihao Han and Tongtong Gao and Lang Hong and Tingfa Xu},
-  
-  journal={IEEE Geoscience and Remote Sensing Letters},
-  
-  year={2024},
-  
-  volume={21},
-  
-  pages={1-5}，
-  
-  url={https://api.semanticscholar.org/CorpusID:267160166}
-  
+Paper: Feature-Enhanced Convolutional Attention for Unstable Rock Detection in Aerial Images.  
+Please cite：@article{Peng2024FeatureEnhancedCA,  
+  title={Feature-Enhanced Convolutional Attention for Unstable Rock Detection in Aerial Images},  
+  author={Peiran Peng and Zhenxiang Chen and Jianan Li and Shuaihao Han and Tongtong Gao and Lang Hong and Tingfa Xu},  
+  journal={IEEE Geoscience and Remote Sensing Letters},  
+  year={2024},  
+  volume={21},  
+  pages={1-5}，  
+  url={https://api.semanticscholar.org/CorpusID:267160166}  
 }
