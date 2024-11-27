@@ -39,6 +39,10 @@ A collection of high-resolution remote sensing images, specifically features uns
 
 Download at [Google Netdisk](https://drive.google.com/drive/folders/1rcz_jCRlwi3Dbt8H946HUyI77R3_5IMC) or [Baidu Netdisk](https://pan.baidu.com/s/1IMvNDZuT2JGP2M_k1jsfcg) (Code：v15y)
 
+Annotation visualization examples
+
+<img src=https://github.com/chenmu1204/czx/blob/main/resources/figure_3.png#pic_center width=50% />
+
 ## Citation
 If you find this project useful in your research, please consider cite:
 <pre><code>
