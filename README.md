@@ -1,7 +1,7 @@
 # Edge Feature Enhancement for Fine-Grained Segmentation of Remote Sensing Images. ([Paper](https://ieeexplore.ieee.org/document/10636209))
 ## Fine-RSMI dataset
 
-Fine-RSMI dataset contains 10,225 meticulously annotatedremote sensing mineral images. Among these, there are 6,417 images with a resolution of 128 x 128 and 3,808 images with a resolution of 256 x 256. We partition the dataset into 8,175 images for training and 2,050 images for testing.
+Fine-RSMI dataset contains 10,225 meticulously annotated remote sensing mineral images. Among these, there are 6,417 images with a resolution of 128 x 128 and 3,808 images with a resolution of 256 x 256. We partition the dataset into 8,175 images for training and 2,050 images for testing.
 
 Download at [Google Netdisk](https://drive.google.com/drive/folders/1je5DrdJyOeCt-JQ6Z-rWLFTnjqjo-Wv3) or [Baidu Netdisk](https://pan.baidu.com/s/181Woy9sFFY1xfzXcTu8xMg?pwd=cb6c) (Code：cb6c)
 
