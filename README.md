@@ -9,9 +9,6 @@ or Baidu Netdisk Get Address:
 Link：https://pan.baidu.com/s/1IMvNDZuT2JGP2M_k1jsfcg  
 Code：v15y
 
-## Acknowledgement
-Our implementation is mainly based on the following codebase[](). We gratefully thank the authors for their wonderful works.
-
 ## Citation
 <pre><code>
 @article{Peng2024FeatureEnhancedCA,
