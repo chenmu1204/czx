@@ -22,6 +22,10 @@ Code：v15y
 }
 </code></pre>
 
+## Acknowledgement
+Our implementation is mainly based on the following codebase[](). We gratefully thank the authors for their wonderful works.
+
+
 # Edge Feature Enhancement for Fine-Grained Segmentation of Remote Sensing Images
 ## Fine-RSMI dataset
 Google Netdisk Get Address:  
@@ -43,3 +47,6 @@ Code：
   url={https://api.semanticscholar.org/CorpusID:271940127}
 }
 </code></pre>
+
+## Acknowledgement
+Our implementation is mainly based on the following codebase [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). We gratefully thank the authors for their wonderful works.
