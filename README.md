@@ -10,7 +10,6 @@ Link：https://pan.baidu.com/s/1IMvNDZuT2JGP2M_k1jsfcg
 Code：v15y
 
 ## BibTeX
-
 <pre><code>
 @article{Peng2024FeatureEnhancedCA,
   title={Feature-Enhanced Convolutional Attention for Unstable Rock Detection in Aerial Images},
@@ -31,3 +30,16 @@ Link：
 or Baidu Netdisk Get Address:  
 Link：
 Code：
+
+## BibTeX
+<pre><code>
+@article{Chen2024EdgeFE,
+  title={Edge Feature Enhancement for Fine-Grained Segmentation of Remote Sensing Images},
+  author={Zhenxiang Chen and Tingfa Xu and Yongzhuo Pan and Ning Shen and Huan Chen and Jianan Li},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2024},
+  volume={62},
+  pages={1-13},
+  url={https://api.semanticscholar.org/CorpusID:271940127}
+}
+</code></pre>
