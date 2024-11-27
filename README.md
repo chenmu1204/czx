@@ -7,6 +7,10 @@ Download at [Google Netdisk](https://drive.google.com/drive/folders/1je5DrdJyOeC
 
 Annotation visualization examples:
 ![Alt](https://github.com/chenmu1204/czx/blob/main/resources/figure_1.png#pic_center =10*10)
+![Alt](https://i-blog.csdnimg.cn/blog_migrate/8f1b213356ed81d5a706d52c6ab7cb6d.png#pic_center =60x60)
+
+![Alt](https://i-blog.csdnimg.cn/blog_migrate/8f1b213356ed81d5a706d52c6ab7cb6d.png#pic_center)
+
 
 ## Acknowledgement
 Our implementation is mainly based on the following codebase [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). We gratefully thank the authors for their wonderful works.
