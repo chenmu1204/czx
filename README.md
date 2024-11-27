@@ -41,7 +41,7 @@ Download at [Google Netdisk](https://drive.google.com/drive/folders/1rcz_jCRlwi3
 
 Annotation visualization examples
 
-<img src=https://github.com/chenmu1204/czx/blob/main/resources/figure_3.png#pic_center width=50% />
+<img src=https://github.com/chenmu1204/czx/blob/main/resources/figure_3.png#pic_center width=80% />
 
 ## Citation
 If you find this project useful in your research, please consider cite:
