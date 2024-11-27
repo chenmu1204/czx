@@ -9,7 +9,10 @@ or Baidu Netdisk Get Address:
 Link：https://pan.baidu.com/s/1IMvNDZuT2JGP2M_k1jsfcg  
 Code：v15y
 
-## BibTeX
+## Acknowledgement
+Our implementation is mainly based on the following codebase[](). We gratefully thank the authors for their wonderful works.
+
+## Citation
 <pre><code>
 @article{Peng2024FeatureEnhancedCA,
   title={Feature-Enhanced Convolutional Attention for Unstable Rock Detection in Aerial Images},
@@ -22,8 +25,6 @@ Code：v15y
 }
 </code></pre>
 
-## Acknowledgement
-Our implementation is mainly based on the following codebase[](). We gratefully thank the authors for their wonderful works.
 
 
 # Edge Feature Enhancement for Fine-Grained Segmentation of Remote Sensing Images
@@ -35,7 +36,10 @@ or Baidu Netdisk Get Address:
 Link：
 Code：
 
-## BibTeX
+## Acknowledgement
+Our implementation is mainly based on the following codebase [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). We gratefully thank the authors for their wonderful works.
+
+## Citation
 <pre><code>
 @article{Chen2024EdgeFE,
   title={Edge Feature Enhancement for Fine-Grained Segmentation of Remote Sensing Images},
@@ -47,6 +51,3 @@ Code：
   url={https://api.semanticscholar.org/CorpusID:271940127}
 }
 </code></pre>
-
-## Acknowledgement
-Our implementation is mainly based on the following codebase [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). We gratefully thank the authors for their wonderful works.
