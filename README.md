@@ -6,7 +6,7 @@ Fine-RSMI dataset contains 10,225 meticulously annotated remote sensing mineral 
 Download at [Google Netdisk](https://drive.google.com/drive/folders/1je5DrdJyOeCt-JQ6Z-rWLFTnjqjo-Wv3) or [Baidu Netdisk](https://pan.baidu.com/s/181Woy9sFFY1xfzXcTu8xMg?pwd=cb6c) (Code：cb6c)
 
 Annotation visualization examples:
-![Alt](https://github.com/chenmu1204/czx/blob/main/resources/figure_1.png#pic_center)
+![Alt](https://github.com/chenmu1204/czx/blob/main/resources/figure_1.png#pic_center =10x10)
 
 ## Acknowledgement
 Our implementation is mainly based on the following codebase [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). We gratefully thank the authors for their wonderful works.
