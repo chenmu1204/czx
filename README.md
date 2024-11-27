@@ -27,11 +27,11 @@ Code：v15y
 # Edge Feature Enhancement for Fine-Grained Segmentation of Remote Sensing Images. ([Paper](https://ieeexplore.ieee.org/document/10636209))
 ## Fine-RSMI dataset
 Google Netdisk Get Address:  
-Link：
+Link：https://drive.google.com/drive/folders/1je5DrdJyOeCt-JQ6Z-rWLFTnjqjo-Wv3
 
 or Baidu Netdisk Get Address:  
-Link：
-Code：
+Link：https://pan.baidu.com/s/181Woy9sFFY1xfzXcTu8xMg?pwd=cb6c
+Code：cb6c
 
 ## Acknowledgement
 Our implementation is mainly based on the following codebase [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). We gratefully thank the authors for their wonderful works.
