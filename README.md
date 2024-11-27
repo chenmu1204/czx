@@ -27,7 +27,7 @@ Our implementation is mainly based on the following codebase[](). We gratefully 
 
 
 
-# Edge Feature Enhancement for Fine-Grained Segmentation of Remote Sensing Images
+# [Edge Feature Enhancement for Fine-Grained Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/document/10636209)
 ## Fine-RSMI dataset
 Google Netdisk Get Address:  
 Link：
