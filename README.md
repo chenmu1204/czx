@@ -12,12 +12,7 @@ Code：v15y
 ## BibTeX
 
 <pre><code>
-function hello() {
-    console.log("Hello, World!");
-}
-</code></pre>
-
-//@article{Peng2024FeatureEnhancedCA,
+@article{Peng2024FeatureEnhancedCA,
   title={Feature-Enhanced Convolutional Attention for Unstable Rock Detection in Aerial Images},
   author={Peiran Peng and Zhenxiang Chen and Jianan Li and Shuaihao Han and Tongtong Gao and Lang Hong and Tingfa Xu},
   journal={IEEE Geoscience and Remote Sensing Letters},
@@ -26,7 +21,7 @@ function hello() {
   pages={1-5},
   url={https://api.semanticscholar.org/CorpusID:267160166}
 }
-//
+</code></pre>
 
 # Edge Feature Enhancement for Fine-Grained Segmentation of Remote Sensing Images
 ## Fine-RSMI dataset
