@@ -17,6 +17,7 @@ Statistics
 Our implementation is mainly based on the following codebase [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). We gratefully thank the authors for their wonderful works.
 
 ## Citation
+If you find this project useful in your research, please consider cite:
 <pre><code>
 @article{Chen2024EdgeFE,
   title={Edge Feature Enhancement for Fine-Grained Segmentation of Remote Sensing Images},
@@ -39,6 +40,7 @@ A collection of high-resolution remote sensing images, specifically features uns
 Download at [Google Netdisk](https://drive.google.com/drive/folders/1rcz_jCRlwi3Dbt8H946HUyI77R3_5IMC) or [Baidu Netdisk](https://pan.baidu.com/s/1IMvNDZuT2JGP2M_k1jsfcg) (Code：v15y)
 
 ## Citation
+If you find this project useful in your research, please consider cite:
 <pre><code>
 @article{Peng2024FeatureEnhancedCA,
   title={Feature-Enhanced Convolutional Attention for Unstable Rock Detection in Aerial Images},
