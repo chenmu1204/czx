@@ -11,7 +11,7 @@ Annotation visualization examples
 
 Statistics
 
-<img src=https://github.com/chenmu1204/czx/blob/main/resources/figure_2.png#pic_center width=50% />
+<img src=https://github.com/chenmu1204/czx/blob/main/resources/figure_2.png#pic_center width=60% />
 
 ## Acknowledgement
 Our implementation is mainly based on the following codebase [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). We gratefully thank the authors for their wonderful works.
