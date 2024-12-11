@@ -1,13 +1,13 @@
 _base_ = [
     '../_base_/models/twins_pcpvt-s_upernet.py',
-    '../_base_/datasets/whdld.py', '../_base_/default_runtime.py',   # 【1】改数据集remoteDataset.py whdld.py   potsdam.py   vaihingen.py
+    '../_base_/datasets/remoteDataset.py', '../_base_/default_runtime.py',   # 【1】改数据集remoteDataset.py whdld.py   potsdam.py   vaihingen.py
     '../_base_/schedules/schedule_80k.py'
 ]
 crop_size = (512, 512)
 data_preprocessor = dict(size=crop_size)
 model = dict(data_preprocessor=data_preprocessor,
-             decode_head=dict(num_classes=6),                        # 【2】改类别数
-             auxiliary_head=dict(num_classes=6))                     # 【2】改类别数
+             decode_head=dict(num_classes=4),                        # 【2】改类别数
+             auxiliary_head=dict(num_classes=4))
 
 optim_wrapper = dict(
     _delete_=True,
