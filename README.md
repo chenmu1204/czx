@@ -14,7 +14,7 @@ Statistics
 <img src=https://github.com/chenmu1204/czx/blob/main/resources/figure_2.png#pic_center width=60% />
 
 ## Code
-Our approach is based on an improved baseline twins model of MMSegmentation. See [EDFEM](https://github.com/chenmu1204/czx/blob/main/mmseg/models/decode_heads/uper_head.py) for our module design.
+Our approach is based on an improved baseline [twins_pcpvt](https://github.com/chenmu1204/czx/edit/main/configs/twins/twins_pcpvt-s_uperhead_8xb4-160k_ade20k-512x512.py) model of MMSegmentation. See [EDFEM](https://github.com/chenmu1204/czx/blob/main/mmseg/models/decode_heads/uper_head.py) for our module design.
 
 ## Acknowledgement
 Our implementation is mainly based on the following codebase [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). We gratefully thank the authors for their wonderful works.
